@@ -1,0 +1,21 @@
+body{
+    padding: 0;
+    margin: 0;\
+    background-position: center;
+    background-size: cover;
+    font-family: sans-serif;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(bg6.jpg);
+}
+ .loginbox{
+    width: 320px;
+    height: 420px;
+    background: #000;
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+    border-radius: 50px;
+}
